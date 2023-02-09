@@ -1,1 +1,1 @@
-"0x00. Shell, basics" 
+"This repository contains solutions to shell tasks"  
